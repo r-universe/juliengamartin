@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pamm"]
+	path = pamm
+	url = https://github.com/juliengamartin/pamm_r
+	shallow = true
+	registered = true
