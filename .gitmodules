@@ -5,3 +5,6 @@
 [submodule "pamm"]
 	path = pamm
 	url = https://github.com/juliengamartin/pamm_r
+[submodule "pedtricks"]
+	path = pedtricks
+	url = https://github.com/juliengamartin/pedtricks
